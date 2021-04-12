@@ -1,1 +1,2 @@
 Este cambio no está en el texto de branch1
+Agrego texto a mi archivo
